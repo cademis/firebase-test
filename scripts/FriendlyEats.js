@@ -195,3 +195,4 @@ FriendlyEats.prototype.data = {
 window.onload = function() {
   window.app = new FriendlyEats();
 };
+
